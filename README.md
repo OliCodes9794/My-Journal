@@ -1,2 +1,2 @@
-# My-Journal
-Here's the list of days I've been practicing and the progress I've made during the days. Have fun reading each day!🤗
+# My Journal
+Daily logs of my DSA learning journey. Each day has insights, reflections, and next moves. Havee fun reading them! 🤗
