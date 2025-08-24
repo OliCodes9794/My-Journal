@@ -1,0 +1,23 @@
+Day 2 — Recursion & Stacks (and not panicking)
+
+What I did
+
+Visualized the call stack using simple recursion (factorial, Fibonacci with memo).
+
+Converted a recursive solution to iterative using an explicit stack.
+
+Big ideas
+
+Every recursive call stores state on the call stack. Depth matters.
+
+Memoization turns exponential into linear when overlapping subproblems exist.
+
+Tail recursion ≠ guaranteed optimization in most languages. Don’t rely on it.
+
+Mini reflections
+
+Drawing stack frames actually made it click. Felt pro for 10 minutes 😌
+
+Next move
+
+Solve: valid parentheses (stack), DFS on a grid (count islands), climb stairs (DP).
