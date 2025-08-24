@@ -1,0 +1,23 @@
+Day 5 — Hashing, Sets, and Map Magic
+
+What I did
+
+Deep dive into collision handling (chaining vs open addressing).
+
+Classic problems using sets/maps for O(1) average lookups.
+
+Big ideas
+
+When frequency matters → hashmap. When uniqueness matters → set.
+
+Watch out for poor hash choices and integer overflow in custom hashing.
+
+For two-sum, store what you need to find (target − x), not just what you saw.
+
+Mini reflections
+
+Hashmaps feel like cheating (the legal kind).
+
+Next move
+
+Practice: group anagrams, top K frequent elements (heap + map), valid anagram
