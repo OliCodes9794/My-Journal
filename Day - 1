@@ -1,0 +1,25 @@
+Day 1 — Warming Up: Arrays & Time Complexity
+
+What I did:
+
+      Set up coding environment and repo.
+
+      Revised arrays, indexing, and common ops.
+
+      Learned Big-O basics: O(1), O(n), O(n log n), O(n²).
+
+Big ideas:
+
+      Time vs space trade-offs are real. Read the constraints first.
+
+      Indexing = super fast; shifting elements = can be costly.
+
+      Prefix sums help turn repeated range-sum work into O(1) queries after O(n) prep.
+
+Mini reflections:
+
+      Felt rusty for the first 20 mins, then flow kicked in. Coffee > fear.
+
+Next move:
+
+      Practice: two-sum (hashmap), best time to buy/sell stock, running sum.
