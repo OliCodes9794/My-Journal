@@ -1,0 +1,23 @@
+Day 4 — Linked Lists & Two Pointers
+
+What I did
+
+Reviewed singly vs doubly linked lists; pointers, head/tail.
+
+Implemented: reverse list, middle of list, detect cycle (Floyd’s tortoise–hare).
+
+Big ideas
+
+Two-pointer patterns: fast/slow for cycles; left/right for sorted arrays.
+
+Linked list ops are O(1) at ends but O(n) for random access.
+
+Dummy nodes make edge cases painless.
+
+Mini reflections
+
+Reversal finally felt natural. Visualizing arrows helps.
+
+Next move
+
+Practice: merge two sorted lists, remove n-th from end, reorder list.
