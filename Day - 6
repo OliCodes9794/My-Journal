@@ -1,0 +1,29 @@
+Day 6 — Sorting & Binary Search Core
+
+What I did
+
+Reviewed sorting families: comparison-based (merge, quick, heap) vs counting/radix.
+
+Binary search patterns: classic, first/last occurrence, lower/upper bound, search on answer.
+
+Big ideas
+
+Stable vs unstable sorts matter for multi-key data.
+
+Binary search template sanity checks:
+
+Monotonic condition?
+
+Loop invariant?
+
+Mid calc safe from overflow? mid = l + (r - l) // 2
+
+“Search on answer” turns optimization into decision problems.
+
+Mini reflections
+
+Off-by-one demons returned… but tests caught them.
+
+Next move
+
+Practice: search rotated sorted array, find Kth smallest (heap/quickselect), allocate pages/capacity (binary search on answer).
