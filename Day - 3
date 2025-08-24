@@ -1,0 +1,23 @@
+Day 3 — Kadane’s + Sliding Window (LeetCode #53)
+
+What I did
+
+Tackled Maximum Subarray (Kadane’s Algorithm) — iteratively tracked current and best sums.
+
+Played with fixed vs. variable-size sliding windows.
+
+Big ideas
+
+Kadane’s recurrence: current = max(num, current + num); best = max(best, current).
+
+Sliding window = two pointers that expand/contract to maintain a condition.
+
+Off-by-one errors love me. I don’t love them back.
+
+Mini reflections
+
+Hit an IndentationError once (lol). Fixed spacing, code ran smooth.
+
+Next move
+
+Practice: longest substring without repeat (set/window), min subarray length ≥ target.
