@@ -1,0 +1,47 @@
+Day 7 — Debugs, Catch-Up & HashMap Magic
+
+What I did
+
+Fixed the tiny bug in containsDuplicate (is vs in).
+
+Cleared doubts about VS Code run button + why input() doesn’t work in the OUTPUT window.
+
+Knocked off pending DSA roadmap problems from Days 3–5:
+
+✅ Two Sum (#1)
+
+✅ Contains Duplicate (#217)
+
+✅ Maximum Subarray (Kadane’s, #53)
+
+✅ Valid Palindrome (#125, plus peeked at the JS version).
+
+Watched a short fun learning video to refresh vibes.
+
+Extra: Broke down how HashMaps really work under the hood.
+
+Big ideas
+
+In Python: is checks identity, in checks membership — huge difference.
+
+IDE quirks matter → VS Code’s OUTPUT isn’t the same as TERMINAL.
+
+HashMaps = constant-time lookups when used smartly. Perfect for “seen vs unseen” problems.
+
+Catch-up days aren’t wasted — they close loops and make you solid.
+
+Mini reflections
+
+Fixing small bugs myself feels 🔑 — more confident now.
+
+Kadane’s finally feels like muscle memory.
+
+Palindrome check across languages shows patterns repeat no matter the syntax.
+
+Next move
+
+Day 6 problem backlog (sorting + binary search practice).
+
+Try a mini “HashMap only” problem set to get faster.
+
+Maybe start writing your own mini template notes for these problems.
